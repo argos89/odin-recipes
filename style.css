@@ -38,3 +38,8 @@ p {
     text-align: center;
     font-family: georgia;
 }
+
+ul,
+ol {
+    padding-left: 15%;
+}
