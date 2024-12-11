@@ -1,19 +1,14 @@
-h1 {
+.home-title {
     text-align: center;
     font-family: Brush Script MT, cursive;
     font-size: 50px;
 }
 
-ul {
+.home-list {
     text-align: center;
-}
-
-ul, li {
     list-style-type: none;
     padding: 0px;
-}
-
-li {
     font-size: 25px;
     font-family: verdana;
 }
+
