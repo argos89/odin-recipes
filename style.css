@@ -15,6 +15,7 @@
 .avocado-toast {
     text-align: center;
     font-family: Georgia;
+    margin-bottom: 0;
 }
 
 img {
@@ -22,4 +23,18 @@ img {
     margin-left: auto;
     margin-right: auto;
     transform: rotate(90deg);
+}
+
+.headings {
+    text-align: center;
+    font-family: Georgia;
+}
+
+#description {
+    margin-top: 0;
+}
+
+p {
+    text-align: center;
+    font-family: georgia;
 }
