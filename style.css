@@ -26,6 +26,13 @@
     color: rgb(151, 19, 19);
 }
 
+.fish-tacos {
+    text-align: center;
+    font-family: Georgia;
+    margin-bottom: 10px;
+    color: rgb(244, 244, 94);
+}
+
 img {
     display: block;
     margin-left: auto;
