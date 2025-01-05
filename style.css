@@ -23,6 +23,16 @@ html {
     border: 1px solid black;
 }
 
+.button {
+    display: inline-block;
+}
+
+.home-list a {
+    background-color: rgb(99, 171, 99);
+    color: white;
+    border: 1px solid black;
+}
+
 .avocado-toast {
     text-align: center;
     font-family: Georgia;
