@@ -20,6 +20,7 @@ html {
     padding: 0px;
     font-size: 25px;
     font-family: verdana;
+    border: 1px solid black;
 }
 
 .avocado-toast {
